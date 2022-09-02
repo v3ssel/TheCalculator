@@ -125,16 +125,27 @@ Dependencies
 ============
 
 1. Clang
- 	* Ubuntu 22.04 - sudo apt install clang
-2. GNU GCC 
-	* Ubuntu 22.04 - sudo apt install gdb
-3. Qt 6.2.3 framework 
-	* Ubuntu 22.04 - sudo apt install qt6-base-dev
-	* Ubuntu 22.04 - sudo apt-get install freeglut3-dev
-3. qmake6 
-	* Ubuntu 22.04 - sudo apt install qmake6
-4. make 
-	* Ubuntu 22.04 - sudo apt install make
 
+2. GNU GCC 
+
+3. Qt 6.2.3 framework
+
+4. OpenGL
+
+5. qmake6 
+
+6. make 
+
+
+Ubuntu 22.04:
+
+```
+sudo apt install clang
+sudo apt install gdb
+sudo apt install qt6-base-dev
+sudo apt-get install freeglut3-dev
+sudo apt install qmake6
+sudo apt install make
+```
 
 ### Created and tested on macOS
