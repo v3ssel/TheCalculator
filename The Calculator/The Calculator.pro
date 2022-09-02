@@ -29,6 +29,8 @@ FORMS += \
     Credit/credit.ui \
     Deposit/deposit.ui
 
+ICON = icon.icns
+
 # Default rules for deployment.
 qnx: target.path = ${HOME}/$${TARGET}/
 else: unix:!android: target.path = /${HOME}/$${TARGET}/
