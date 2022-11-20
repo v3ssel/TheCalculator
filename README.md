@@ -136,16 +136,6 @@ Dependencies
 
 6. make 
 
-
-Ubuntu 22.04:
-
-```
-sudo apt install clang
-sudo apt install gdb
-sudo apt install qt6-base-dev
-sudo apt-get install freeglut3-dev
-sudo apt install qmake6
-sudo apt install make
-```
+![image](misc/image.png)
 
 ### Created and tested on macOS
